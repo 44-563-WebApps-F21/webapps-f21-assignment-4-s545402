@@ -30,3 +30,21 @@
 .GERALD{
     color:darkred;
 }
+table{
+    border:1px solid black;
+    width:60%;
+}
+th{
+    color: black;
+    border: 1px solid black;
+    text-align: center;
+}
+td{
+    color:rebeccapurple;
+    border: 1px solid black;
+    text-align: left;
+}
+tr:nth-child(even) {
+    background-color: burlywood;
+
+}
