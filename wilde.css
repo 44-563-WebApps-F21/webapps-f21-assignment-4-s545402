@@ -1,0 +1,32 @@
+.speech{
+    font-family: Times New Roman;
+    font-size: 20px;
+    color: black;
+}
+.stage-direction{
+    font-family: Times New Roman;
+    font-size: 20px;
+    color: black;
+    background-color:lightpink;
+}
+.name{
+    font-family: Times New Roman;
+    font-size: 20px;
+    color: black;  
+}
+.stage-direction:hover{
+    color:blue;
+    background-color:cyan;
+}
+.HESTER{
+    color:brown;
+}
+.LADYCAROLINE{
+    color:chocolate;
+}
+.LADYHUNSTANTON{
+    color:darkgreen;
+}
+.GERALD{
+    color:darkred;
+}
