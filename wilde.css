@@ -48,3 +48,7 @@ tr:nth-child(even) {
     background-color: burlywood;
 
 }
+.LADYHUNSTANTON:hover{
+    text-shadow: 2px 2px 2px greenyellow;
+    border:solid 3px rebeccapurple;
+}
