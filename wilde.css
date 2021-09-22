@@ -32,7 +32,7 @@
 }
 table{
     border:1px solid black;
-    width:60%;
+    width:40%;
 }
 th{
     color: black;
@@ -51,4 +51,22 @@ tr:nth-child(even) {
 .LADYHUNSTANTON:hover{
     text-shadow: 2px 2px 2px greenyellow;
     border:solid 3px rebeccapurple;
+}
+ul.navbar-horizontal {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+ul.navbar-horizontal li {
+    float:left;
+    background: linear-gradient(110deg, lightblue ,blue);
+}
+ul.navbar-horizontal a {
+    display:block;
+    padding:20px;
+    color:lightsalmon;
+}
+ul.navbar-horizontal a:hover {
+    background-color: white;
+    color:red;
 }
